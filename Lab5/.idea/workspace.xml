@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5725fddf-39e0-465a-98c4-ef5162833518" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesImageSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DigitalSignatureSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SUTD.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/longtext.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shorttext.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/triangle.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/50005Lab3" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/50005Lab3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/answer.pages" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4/answer.pages" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1a7ncvlfkZBNmQWgbP52mRLmNs0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DigitalSignatureSolution">
+    <configuration name="DesImageSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesImageSolution" />
+      <module name="Lab5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesSolution" />
+      <module name="Lab5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DigitalSignatureSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DigitalSignatureSolution" />
+      <module name="Lab5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Lab5" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DesImageSolution" />
+      <item itemvalue="Application.DesSolution" />
+      <item itemvalue="Application.DigitalSignatureSolution" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DigitalSignatureSolution" />
+        <item itemvalue="Application.DesImageSolution" />
+        <item itemvalue="Application.DesSolution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5725fddf-39e0-465a-98c4-ef5162833518" name="Default Changelist" comment="" />
+      <created>1586095582952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586095582952</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="179" key="GridCell.Tab.0.bottom" timestamp="1586234110356">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="854" height="179" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1586189349173" />
+    <state width="1878" height="179" key="GridCell.Tab.0.bottom/0.23.1920.1057/72.1103.1792.1097@0.23.1920.1057" timestamp="1586234110356" />
+    <state width="1878" height="179" key="GridCell.Tab.0.center" timestamp="1586234110356">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="854" height="179" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1586189349172" />
+    <state width="1878" height="179" key="GridCell.Tab.0.center/0.23.1920.1057/72.1103.1792.1097@0.23.1920.1057" timestamp="1586234110356" />
+    <state width="1878" height="179" key="GridCell.Tab.0.left" timestamp="1586234110356">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="854" height="179" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1586189349172" />
+    <state width="1878" height="179" key="GridCell.Tab.0.left/0.23.1920.1057/72.1103.1792.1097@0.23.1920.1057" timestamp="1586234110356" />
+    <state width="1878" height="179" key="GridCell.Tab.0.right" timestamp="1586234110356">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="854" height="179" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1586189349173" />
+    <state width="1878" height="179" key="GridCell.Tab.0.right/0.23.1920.1057/72.1103.1792.1097@0.23.1920.1057" timestamp="1586234110356" />
+    <state width="1009" height="357" key="GridCell.Tab.1.bottom" timestamp="1586234110348">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1009" height="357" key="GridCell.Tab.1.bottom/0.23.1920.1057/72.1103.1792.1097@0.23.1920.1057" timestamp="1586234110348" />
+    <state width="1009" height="357" key="GridCell.Tab.1.center" timestamp="1586234110347">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1009" height="357" key="GridCell.Tab.1.center/0.23.1920.1057/72.1103.1792.1097@0.23.1920.1057" timestamp="1586234110347" />
+    <state width="1009" height="357" key="GridCell.Tab.1.left" timestamp="1586234110347">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1009" height="357" key="GridCell.Tab.1.left/0.23.1920.1057/72.1103.1792.1097@0.23.1920.1057" timestamp="1586234110347" />
+    <state width="1009" height="357" key="GridCell.Tab.1.right" timestamp="1586234110348">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1009" height="357" key="GridCell.Tab.1.right/0.23.1920.1057/72.1103.1792.1097@0.23.1920.1057" timestamp="1586234110348" />
+    <state x="869" y="23" width="1024" height="722" key="SettingsEditor" timestamp="1586096267185">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="869" y="23" width="1024" height="722" key="SettingsEditor/0.23.1920.1057/72.1103.1792.1097@0.23.1920.1057" timestamp="1586096267185" />
+    <state x="99" y="187" width="670" height="729" key="find.popup" timestamp="1586095587721">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="99" y="187" width="670" height="729" key="find.popup/0.23.1920.1057/72.1103.1792.1097@0.23.1920.1057" timestamp="1586095587721" />
+    <state x="869" y="23" width="1051" height="529" key="new project wizard" timestamp="1586095914675">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="869" y="23" width="1051" height="529" key="new project wizard/0.23.1920.1057/72.1103.1792.1097@0.23.1920.1057" timestamp="1586095914675" />
+  </component>
+</project>
